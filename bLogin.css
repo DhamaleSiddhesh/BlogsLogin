@@ -1,0 +1,81 @@
+.bodyColor{
+    background-color: #ccc;
+}
+.boxColor{
+    background-color: white;
+}
+.NavBar {
+    background-color: navy;
+    color: white;
+    height: 50px;
+    padding: 10px 50px 1px 50px;
+}
+
+.removeMargin {
+    margin: 0px;
+}
+
+.removePadding{
+    /* padding: 0px; */
+}
+
+.rightAllign {
+    /* text-align: right; */
+    float: right !important;
+    display: inline;
+}
+
+.leftAllighn{
+    /* text-align: left; */
+    float: left !important;
+    display: inline;
+}
+
+.centerAllign{
+    text-align: center;
+    
+}
+.Tcolor{
+    color: navy;
+}
+
+.button {
+    margin: 10px;
+}
+
+.border {
+    /* border: 2px solid black; */
+    box-shadow: 1px 1px 5px 0.5px #354052;;
+    background-color: lightgray;
+    width: 20%;
+    height: 400px;
+    margin: 50px auto 0px;
+    padding: 10px;
+}
+
+.bodyButtons{
+    border-radius: 5px;
+    /* padding: 15px 80px 1px 50px; */
+
+}
+.login{
+    background-color: navy;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+    margin: 5px 0px;
+}
+
+.footer{
+    bottom: 0 ;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    background-color: #c0c0c0;
+    height: 25px;
+}
+input{
+    width: 90%;
+    padding: 10px;
+}
